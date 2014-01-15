@@ -16,3 +16,14 @@ class Maximum
 end
 
 max = Maximum.new([5,3,2,1,7,6,99,4,3,23,53])
+
+# We assume that our processor can execute the following operations as one instruction each:
+# 	- assigning value to a variable
+# 	- looking up value of element in array
+# 	- comparing two values
+# 	- incrementing a value
+# 	- basic arithmetic operations
+
+# Two operations on line 5:
+# 	- Look up array[0]'s value, and then assign it to @max
+
