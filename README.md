@@ -1,7 +1,5 @@
 Intro to Algorithmic Efficiency
 
-This is meant to help a student improve in using algorithms.
-
 Resources
 - http://discrete.gr/complexity/
 - http://bigocheatsheet.com/
