@@ -1,6 +1,6 @@
 Intro to Algorithmic Efficiency
 
-This is meant to help a student improve in using algorithms.
+This is meant to help a student improve in using algorithms. TESTING AGAIN
 
 Resources
 - http://discrete.gr/complexity/
